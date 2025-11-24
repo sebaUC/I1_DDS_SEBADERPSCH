@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifier", "Classifier\Classifier.csproj", "{752985F7-68B4-45EE-9952-418657123B77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifier.Tests", "Classifier.Tests\Classifier.Tests.csproj", "{4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{752985F7-68B4-45EE-9952-418657123B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{752985F7-68B4-45EE-9952-418657123B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{752985F7-68B4-45EE-9952-418657123B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{752985F7-68B4-45EE-9952-418657123B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

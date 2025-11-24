@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=18b12f8d_002Da1ad_002D4584_002D8d32_002D3a6229623f3f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Handle_ReturnAnErrorMessageWhenClassifierTypeIsInvalid #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78::net8.0::Classifier.Tests.ControllerTests.Handle_ReturnAnErrorMessageWhenClassifierTypeIsInvalid&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=27fec8d4_002D4361_002D484b_002Dbf6d_002Da151a6c135f8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Handle_ReturnAnErrorMessageWhenClassifierTypeIsInvalid #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78::net8.0::Classifier.Tests.ControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d049408_002Dbbd5_002D4ac2_002D97b1_002Dd2a5f98c8244/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Handle_ReturnAnErrorMessageWhenClassifierTypeIsInvalid #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\C#\Classifier\Classifier.Tests" Presentation="&amp;lt;Classifier.Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ef6733a7_002D0898_002D4eb6_002Db404_002D92db0bda8335/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Handle_ReturnAnErrorMessageWhenClassifierTypeIsInvalid" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78::net8.0::Classifier.Tests.ControllerErrorsTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78::net8.0::Classifier.Tests.ControllerKnnTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4C8FBD7D-BBB6-44F2-B2DB-7410332E2A78::net8.0::Classifier.Tests.ControllerLogisticRegressionTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
